@@ -1,0 +1,5 @@
+{{#user}}
+Name: Vinay
+Skills: Python, HTML, CSS, Django, 
+Email: vinaysingh02640@gmail.com
+{{/user}}
